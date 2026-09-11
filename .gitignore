@@ -3,6 +3,14 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+*.jar
+*.war
+
+# General
+.env
+.env.local
+*.log
+.DS_Store
 
 ### STS ###
 .apt_generated
@@ -34,3 +42,6 @@ build/
 
 ### NodeJS ###
 node_modules/
+
+# Docker
+*.pid
