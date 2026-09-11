@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>vn.edu.fpt</groupId>
-	<artifactId>campusstay-backend</artifactId>
+	<artifactId>campusstay-fpt-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>campusstay-backend</name>
 	<description>Backend API for CampusStay FPT dormitory management system</description>
