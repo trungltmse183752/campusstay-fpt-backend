@@ -1,0 +1,26 @@
+{
+  "name": "campusstay-fpt-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungltmse183752/campusstay-fpt-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trungltmse183752/campusstay-fpt-backend/issues"
+  },
+  "homepage": "https://github.com/trungltmse183752/campusstay-fpt-backend#readme",
+  "description": "",
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.2",
+    "@commitlint/config-conventional": "^21.2.2",
+    "husky": "^9.1.7"
+  }
+}
