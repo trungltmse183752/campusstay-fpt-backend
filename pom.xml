@@ -11,7 +11,7 @@
 	<groupId>vn.edu.fpt</groupId>
 	<artifactId>campusstay-fpt-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>campusstay-backend</name>
+	<name>campusstay-fpt-backend</name>
 	<description>Backend API for CampusStay FPT dormitory management system</description>
 	<url>https://github.com/trungltmse183752/campusstay-fpt-backend</url>
 	<licenses>
